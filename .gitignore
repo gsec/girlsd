@@ -1,0 +1,9 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+env
+.ropeproject
+db.sqlite3
+/static
+.DS_Store
